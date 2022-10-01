@@ -24,7 +24,6 @@
 
 - 📚 I’m currently studing on:
   <ul>
-  <br>
    <li>Universidad Tecnologica de Pereira</li>
    <li>Colombian TI Software</li>
    <li>Shecodes</li>
