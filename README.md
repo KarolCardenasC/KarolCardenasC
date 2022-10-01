@@ -26,7 +26,7 @@
   <ul>
   <b>
    <li>B English</li>
-   <li>Universidad Tecnologica de Pereira</li>
+   <li>Misión Tic - Universidad Tecnologica de Pereira</li>
    <li>Colombian TI Software</li>
    <li>Shecodes</li>
   </b>
