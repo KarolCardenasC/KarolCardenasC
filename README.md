@@ -27,11 +27,11 @@
   <b>
    <li>B English</li>
    <li>Misión Tic - Universidad Tecnologica de Pereira</li>
-   <li>Colombian TI Software</li>
+   <li>UColtis</li>
    <li>Shecodes</li>
   </b>
   </ul>
-- 🌱 I’m currently learning **Python, HTML, CSS, JavaScript**</li>
+- 🌱 I’m currently learning **MERN**</li>
 - 📫 How to reach me **karolcarc10@gmail.com**
 - ⚡ Fun fact - **I am funny**
 <!-- 🌐 Website []()</li> -->
